@@ -1,4 +1,4 @@
 # DeepSpace
-this is my first try in pytorch+github+deeplearning
+My interests:
 
 Neural Computation, Deep Learning, Computer Vision, Image Processing
